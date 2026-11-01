@@ -1,7 +1,7 @@
 :root{--bg:#fff;--ink:#1c1c22;--mut:#9b9ba5;--ln:#e7e7ec;--sf:#f4f4f4;--bl:#0a67ff;--nv:#10206f;--gr:#1f9a4d;--out:#dfe3ea;--lv:#efeffe;--cy:#e1f7fd;--tb:#e2f3ff;color-scheme:light;box-sizing:border-box;padding:0}
 *{box-sizing:border-box;margin:0;-webkit-tap-highlight-color:transparent}
 html,body{height:100%}
-body{font:400 13px/1.35 Montserrat,system-ui,sans-serif;background:var(--out);color:var(--ink)}
+body{font:400 13px/1.35 Roboto,system-ui,sans-serif;background:var(--out);color:var(--ink)}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 [hidden]{display:none!important}
 .i{width:24px;height:24px;fill:currentColor;flex:none}
