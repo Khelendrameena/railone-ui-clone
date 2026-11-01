@@ -5,7 +5,7 @@ body{font:400 13px/1.35 Montserrat,system-ui,sans-serif;background:var(--out);co
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 [hidden]{display:none!important}
 .i{width:24px;height:24px;fill:currentColor;flex:none}
-#app{position:relative;max-width:430px;height:100%;margin:auto;background:var(--bg);display:flex;flex-direction:column;overflow:hidden;box-shadow:0 0 40px #0003}
+#app{position:relative;width:100%;max-width:430px;height:100%;margin:auto;background:var(--bg);display:flex;flex-direction:column;overflow:hidden;box-shadow:0 0 40px #0003}
 .page{display:none;flex:1;min-height:0;flex-direction:column}
 .page.on{display:flex}
 .sc{flex:1;overflow-y:auto;padding-bottom:18px}
